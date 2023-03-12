@@ -11,5 +11,6 @@
   "publishConfig": {
     "@florianflouquet:registry": "https://npm.pkg.github.com"
   },
-  "repository": "https://github.com/FlorianFlouquet/test-github-packages.git"
+  "repository": "https://github.com/FlorianFlouquet/test-github-packages.git",
+  "private": false
 }
