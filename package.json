@@ -1,6 +1,6 @@
 {
-  "name": "@florianflouquet/test-github-packages",
-  "version": "0.0.5",
+  "name": "@legodane/test-github-packages",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "@florianflouquet:registry": "https://npm.pkg.github.com"
+    "@legodane:registry": "https://npm.pkg.github.com"
   },
-  "repository": "https://github.com/FlorianFlouquet/test-github-packages.git",
-  "private": false
+  "repository": "https://github.com/FlorianFlouquet/test-github-packages.git"
 }
